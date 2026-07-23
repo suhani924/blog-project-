@@ -59,17 +59,11 @@ Blog project/
 ```
 
 ## screenshots
-<img width="1047" height="686" alt="Screenshot 2026-07-23 080531" src="https://github.com/user-attachments/assets/22c475c6-ae97-435c-8ef3-cbc5e05519ab" />
-<img width="1075" height="763" alt="Screenshot 2026-07-23 080545" src="https://github.com/user-attachments/assets/ddb95b20-1c1f-40e0-9b6b-5ee0ef76005d" />
-<img width="1162" height="737" alt="Screenshot 2026-07-23 080602" src="https://github.com/user-attachments/assets/b1f82b80-6479-4593-b912-d1eea6213a6b" />
-<img width="1073" height="654" alt="Screenshot 2026-07-23 080618" src="https://github.com/user-attachments/assets/10a8ee93-aa1a-476e-84a3-87c9a87257b1" />
-<img width="1919" height="936" alt="Screenshot 2026-07-23 080303" src="https://github.com/user-attachments/assets/522df56c-a453-4662-a54a-cf622bea76c1" />
-<img width="279" height="120" alt="Screenshot 2026-07-23 080325" src="https://github.com/user-attachments/assets/8a8f204e-70c3-4092-a3ba-6996ef9ddddc" />
-<img width="1919" height="946" alt="Screenshot 2026-07-23 080353" src="https://github.com/user-attachments/assets/ac3fe3dc-d55b-4355-a40d-61a072082eca" />
-<img width="1174" height="798" alt="Screenshot 2026-07-23 080412" src="https://github.com/user-attachments/assets/ef69895c-2527-4633-83ad-49b0e099e43f" />
-<img width="1115" height="541" alt="Screenshot 2026-07-23 080422" src="https://github.com/user-attachments/assets/798ce29c-107f-4e64-bc13-c150f78f67a5" />
-<img width="1127" height="782" alt="Screenshot 2026-07-23 080437" src="https://github.com/user-attachments/assets/03db3c4b-c0ca-4f4c-9670-ab5c091f9891" />
-<img width="1098" height="628" alt="Screenshot 2026-07-23 080451" src="https://github.com/user-attachments/assets/948e505b-4338-4cc1-ac62-d7e23ea09759" />
+<img width="1919" height="936" alt="Screenshot 2026-07-23 080303" src="https://github.com/user-attachments/assets/68707f41-a3f6-44fc-b7a1-4eff02fb4b99" />
+<img width="279" height="120" alt="Screenshot 2026-07-23 080325" src="https://github.com/user-attachments/assets/8a032f30-4db7-44bd-a38c-eef36b823a4c" />
+<img width="1919" height="946" alt="Screenshot 2026-07-23 080353" src="https://github.com/user-attachments/assets/5c16d49a-41ad-41a9-8fc3-e5b7a3553389" />
+<img width="1174" height="798" alt="Screenshot 2026-07-23 080412" src="https://github.com/user-attachments/assets/ce0dccfa-59c0-42d1-bddd-91b11537fd32" />
+
 
 ---
 

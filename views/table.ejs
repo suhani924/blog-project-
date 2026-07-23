@@ -1,0 +1,37 @@
+<%- include("partials/header") %>
+
+<div class="card">
+    <h2>Student List</h2>
+
+    <div class="table-scroll">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Course</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% students.forEach((student) => { %>
+                <tr>
+                    <td><%= student.name %></td>
+                    <td><%= student.email %></td>
+                    <td><span class="badge"><%= student.course %></span></td>
+                    <td>
+                        <a href="/edit/<%= student._id %>">Edit</a> |
+                        <a href="/delete/<%= student._id %>">Delete</a>
+                    </td>
+                </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="action-bar">
+        <a href="/form" class="btn"> Add New Student</a>
+    </div>
+</div>
+
+<%- include("partials/footer") %>

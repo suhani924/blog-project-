@@ -1,0 +1,23 @@
+<%- include("partials/header") %>
+
+<div class="card card-narrow">
+    <h2>Signup</h2>
+
+    <form action="/signup" method="POST">
+
+        <input type="text" name="name" placeholder="Enter Name" required>
+
+        <input type="email" name="email" placeholder="Enter Email" required>
+
+        <input type="password" name="password" placeholder="Enter Password" required>
+
+        <button type="submit">Signup</button>
+
+    </form>
+
+    <p class="link-row">
+        <a href="/signin">Already have an account? Signin</a>
+    </p>
+</div>
+
+<%- include("partials/footer") %>

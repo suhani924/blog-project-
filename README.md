@@ -63,6 +63,13 @@ Blog project/
 <img width="279" height="120" alt="Screenshot 2026-07-23 080325" src="https://github.com/user-attachments/assets/8a032f30-4db7-44bd-a38c-eef36b823a4c" />
 <img width="1919" height="946" alt="Screenshot 2026-07-23 080353" src="https://github.com/user-attachments/assets/5c16d49a-41ad-41a9-8fc3-e5b7a3553389" />
 <img width="1174" height="798" alt="Screenshot 2026-07-23 080412" src="https://github.com/user-attachments/assets/ce0dccfa-59c0-42d1-bddd-91b11537fd32" />
+<img width="1115" height="541" alt="Screenshot 2026-07-23 080422" src="https://github.com/user-attachments/assets/e6931285-4317-4bb1-ba4e-d721373b4b30" />
+<img width="1127" height="782" alt="Screenshot 2026-07-23 080437" src="https://github.com/user-attachments/assets/4544bcf2-64b0-49aa-9ea1-176ce01f956f" />
+<img width="1098" height="628" alt="Screenshot 2026-07-23 080451" src="https://github.com/user-attachments/assets/94257c55-1239-4e5f-a733-1ddad30286e8" />
+<img width="1047" height="686" alt="Screenshot 2026-07-23 080531" src="https://github.com/user-attachments/assets/4cac83d6-da36-40c6-ad17-f51e64f8d3b0" />
+<img width="1075" height="763" alt="Screenshot 2026-07-23 080545" src="https://github.com/user-attachments/assets/c8a92c1a-3df6-4503-8165-8c7d2919f8e1" />
+<img width="1162" height="737" alt="Screenshot 2026-07-23 080602" src="https://github.com/user-attachments/assets/000573b1-00ab-4af7-ad59-31a3785494d1" />
+<img width="1073" height="654" alt="Screenshot 2026-07-23 080618" src="https://github.com/user-attachments/assets/5248deb6-a709-45e5-a453-34fd37af497d" />
 
 
 ---
